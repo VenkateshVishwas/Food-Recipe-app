@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import foodRecipe from '../assets/foodRecipe.png'
+import foodRecipe from '../assets/foodRecipe.webp'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 import RecipeItems from '../components/RecipeItems'
